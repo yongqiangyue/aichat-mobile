@@ -1,0 +1,6 @@
+{
+    "login.noPassword": "Please enter your password",
+    "login.noUsername": "Please enter your username",
+    "login.username": "Username",
+    "login.password": "Password",
+}

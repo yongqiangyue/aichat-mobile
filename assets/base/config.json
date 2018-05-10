@@ -1,0 +1,6 @@
+{
+    "DefaultAppId": "1400045877",
+    "DefaultAuthUrl": "https://211.159.180.214:8080/authserver/api/user",
+    "DefaultImUrl": "https://webim.tim.qq.com",
+    "DefaultPicUrl": "https://pic.tim.qq.com",
+}
